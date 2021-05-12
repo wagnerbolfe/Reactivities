@@ -34,7 +34,12 @@ Reactivities Description
 
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
--**.NET 5** -**React c/ TypeScript** -**MobX** -**AutoMapper e MediatR** -**Entity Framework Core** -**PostgreSQL**
+- **.NET 5**
+- **React c/ TypeScript**
+- **MobX**
+- **AutoMapper e MediatR**
+- **Entity Framework Core**
+- **PostgreSQL**
 
 ## Instalação e uso
 

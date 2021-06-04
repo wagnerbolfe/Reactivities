@@ -62,4 +62,19 @@ yarn start
 
 ---
 
+<!-- ```bash
+# Entre na pasta API com
+cd reactivities/API
+
+# Instale as dependências
+yarn install
+
+# Rode o aplicação
+yarn start
+
+# Acesse http://localhost:3000 no seu navagador.
+``` -->
+
+---
+
 Desenvolvido por Wagner Bolfe

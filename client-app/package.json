@@ -13,9 +13,9 @@
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.9",
     "@types/react-infinite-scroller": "^1.2.3",
-    "axios": "^1.2.0",
+    "axios": "^1.4.0",
     "date-fns": "^2.29.3",
-    "formik": "^2.2.9",
+    "formik": "^2.4.2",
     "mobx": "^6.7.0",
     "mobx-react-lite": "^3.4.0",
     "react": "^18.2.0",
@@ -62,7 +62,6 @@
   "devDependencies": {
     "@types/react-calendar": "^3.9.0",
     "@types/react-datepicker": "^4.8.0",
-    "@types/uuid": "^9.0.0",
-    "@types/yup": "^0.32.0"
+    "@types/uuid": "^9.0.0"
   }
 }
